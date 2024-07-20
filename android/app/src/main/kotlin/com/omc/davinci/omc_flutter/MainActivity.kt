@@ -1,0 +1,6 @@
+package com.steps.davinci.muntuai
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
